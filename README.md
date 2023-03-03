@@ -8,11 +8,14 @@ This is a web application for the prevention of mental disorders in social media
 
 ## Backend
 - Django
-- Python3
+- Python3, Tensorflow, Keras
 - RESTful APIs
 
 ## Database
 - MongoDB
+
+## Cloud Services:
+- Heroku
 
 # Prerequisites
 - ReactJS and npm installed on your local machine
@@ -20,7 +23,7 @@ This is a web application for the prevention of mental disorders in social media
 - MongoDB installed on your local machine
 
 # Setup and Installation
-- Clone the repository using the command git clone https://github.com/your-repository-link.git.
+- Clone the repository using the command git clone https://github.com/bsef19m521/NLP-based-Mental-Health-Prevention-Web-App.git.
 - Navigate to the project directory using the command cd nlp-mental-health-web-app.
 - Install the frontend dependencies using the command npm install.
 - Install the backend dependencies using the command npm run server-install.
@@ -30,15 +33,18 @@ This is a web application for the prevention of mental disorders in social media
 
 # Usage
 - Open your browser and navigate to http://localhost:3000.
-- Enter the required details such as name, age, and social media handle.
-- Click the "Analyze" button to analyze the social media posts.
+- Enter the required details such as username, password, and social media handle.
+- Select the social media platform and view the social media posts.
 - The application will use NLP to identify early warning signs of mental disorders in the social media posts and provide recommendations.
 
 # Contributors
-Zainab Saeed
-Ayesha Rashid
-Tayyaba Nasir
-Ehtisham Sadiq
+- ### [Zainab Saeed](https://github.com/Bsef19m516) 
+<br/>
+- ### [Ayesha Rashid](https://github.com/AyeshaRashid208)
+<br/>
+- ### [Tayyaba Nasir](https://github.com/Tayyaba-Nasir)
+<br/>
+- ### [Ehtisham Sadiq](https://github.com/bsef19m521)
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
