@@ -38,13 +38,10 @@ This is a web application for the prevention of mental disorders in social media
 - The application will use NLP to identify early warning signs of mental disorders in the social media posts and provide recommendations.
 
 # Contributors
-- ### [Zainab Saeed](https://github.com/Bsef19m516) 
-<br/>
-- ### [Ayesha Rashid](https://github.com/AyeshaRashid208)
-<br/>
-- ### [Tayyaba Nasir](https://github.com/Tayyaba-Nasir)
-<br/>
-- ### [Ehtisham Sadiq](https://github.com/bsef19m521)
+- ### [Zainab Saeed](https://github.com/Bsef19m516)              
+- ### [Ayesha Rashid](https://github.com/AyeshaRashid208)                 
+- ### [Tayyaba Nasir](https://github.com/Tayyaba-Nasir)             
+- ### [Ehtisham Sadiq](https://github.com/bsef19m521)         
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
