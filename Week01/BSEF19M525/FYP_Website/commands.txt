@@ -1,0 +1,3 @@
+npm install react-router-dom
+npm install --save-dev sass
+npm install react-icons --save
